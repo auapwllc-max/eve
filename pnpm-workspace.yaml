@@ -50,7 +50,7 @@ catalog:
   ai: "^7.0.137"
   better-auth: "1.6.26"
   marked: "17.0.6"
-  next: "16.3.4"
+  next: "16.4.1"
   phase: "0.0.1"
   picocolors: "1.1.1"
   react: "19.2.6"
@@ -58,7 +58,7 @@ catalog:
   streamdown: "2.5.0"
   typescript: "7.0.2"
   vitest: "5.0.2"
-  zod: "4.5.4"
+  zod: "4.6.7"
 
 overrides:
   # eve ships one vendored Zod (packages/eve/scripts/vendor-compiled/zod.mjs).
